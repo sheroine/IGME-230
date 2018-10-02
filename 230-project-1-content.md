@@ -43,3 +43,10 @@ There will be a tutorial level that will walk through new players with the mecha
 
 For players to get the highest score of a level as possible, they basically have to be as accurate as possible with the beats. In detail, they have to hit the beats when the center of the beat is as close to the center of the receptor as possible. There is a score multiplier that will activate when players didn't miss any beats in a certain amount of time, and will not stop until a player misses another beat during the multiplier time. So players can get a way higher score if they didn't miss a single beat since the score multiplier mode will be activated very soon and last throughout the whole rest of the song.
 
+## Music sources
+
+All music will be downloaded from https://www.newgrounds.com/ where music found there are free for download and use.
+
+## About the Developer
+
+My name is Mandy, I am a second year majoring in Game Design and Development at RIT.
