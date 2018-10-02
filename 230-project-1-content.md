@@ -49,4 +49,4 @@ All music will be downloaded from https://www.newgrounds.com/ where music found 
 
 ## About the Developer
 
-My name is Mandy, I am a second year majoring in Game Design and Development at RIT.
+My name is Mandy, I am a second year majoring in Game Design and Development at RIT. I can program with C#, write HTML and CSS, and use Photoshop and Krita for making art. I 
