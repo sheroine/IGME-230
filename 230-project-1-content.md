@@ -32,7 +32,7 @@ These would be the items that drive players to keep playing and strive for a hig
 
 ### Controls
 
-PC: Keyboard for playing, mouse for navigation
+PC: Keyboard for playing, mouse for navigation  
 Mobile and tablet devices: Touch scren
 
 ### New User Experience
