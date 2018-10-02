@@ -6,8 +6,8 @@ Hit the beats and tap to the rhythm! Can you keep up with the music and get a hi
 
 ## Genre
 
-*Music
-*Rhythm
+* Music
+* Rhythm
 
 ## Platform
 
