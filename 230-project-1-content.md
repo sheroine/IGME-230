@@ -28,6 +28,7 @@ And the elements of gameplay will be abstract, and reflect the mood, tempo, and 
 * Micro leader-boards
 * Envy
 * Endless
+
 These would be the items that drive players to keep playing and strive for a highest score on the leaderboard. They would
 feel a sense of achievement and pride when they beat the high score of their own or someone else's. In doing so they
 are motivated to reach a higher status, in terms of their score, and possibly out of envy of others' scores.
