@@ -45,6 +45,8 @@ For players to get the highest score of a level as possible, they basically have
 
 ## Screenshots
 
+![alt text](https://github.com/sheroine/IGME-230/blob/master/gameplay_screenshot.png "gameplay_screenshot")
+
 ## Music Sources
 
 All music will be downloaded from https://www.newgrounds.com/ where music found there are free for download and use.
